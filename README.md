@@ -1,2 +1,2 @@
 # dev-
-A website for all things CAGO development. 
+A website for all things CSGO development. 
