@@ -23,6 +23,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #2457af;
+    font-family: 'Titillium Web', sans-serif;
 }
 li {
     float: left;
