@@ -16,6 +16,10 @@
   /*background-color: #a8d1c8*/
   font-family: 'Inconsolata';
 }
+
+#navbarlink { 
+  font-family: 'Titillium Web', sans-serif;
+}
  
 ul {
     list-style-type: none;
