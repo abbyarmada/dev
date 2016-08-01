@@ -61,3 +61,8 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.active {
+   background-color: #0000ff;
+}
+
