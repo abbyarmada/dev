@@ -74,3 +74,12 @@ li.dropdown {
 #navbarlink {
   font-family: 'Titillium Web', sans-serif;
 }
+
+/* Add a gray right border to all list items, except the last item (last-child) */
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
