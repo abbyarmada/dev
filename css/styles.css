@@ -3,13 +3,14 @@
   src: url('https://fonts.googleapis.com/css?family=Inconsolata');
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Oxygen';
   src: url('https://fonts.googleapis.com/css?family=Oxygen:400,300');
-}
-
+}*/
+/* head font, font-family: 'Oswald', sans-serif;*/
+/* body font, font-family: 'Hind', sans-serif;*/
 #ft{
-  font-family: 'Oxygen';
+
 }
 
 #ct{
@@ -17,10 +18,10 @@
   font-family: 'Inconsolata';
 }
 
-#navbarlink { 
+#navbarlink {
   font-family: 'Titillium Web', sans-serif;
 }
- 
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -70,7 +71,6 @@ li.dropdown {
    background-color: #009933;
 }
 
-#navbarlink { 
+#navbarlink {
   font-family: 'Titillium Web', sans-serif;
 }
-
