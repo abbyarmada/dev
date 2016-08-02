@@ -16,10 +16,11 @@
   /*background-color: #a8d1c8*/
   font-family: 'Inconsolata';
   background-color: #B8B8B8;
-  margin-left: 1px; 
-  margin-right: 1px;
-  margin-top: 1px;
-  margin-bottom: 1px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
 }
 
 #navbarlink { 
@@ -33,7 +34,7 @@ ul {
     overflow: hidden;
     background-color: #2457af;
     font-family: 'Titillium Web', sans-serif;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 li {
     float: left;
