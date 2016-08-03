@@ -23,10 +23,10 @@
   border-radius: 5px;
 }
 
-#navbarlink { 
+#navbarlink {
   font-family: 'Titillium Web', sans-serif;
 }
- 
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -77,11 +77,10 @@ li.dropdown {
    background-color: #009933;
 }
 
-#navbarlink { 
+#navbarlink {
   font-family: 'Titillium Web', sans-serif;
 }
 
 #footer {
   font-family: 'Titillium Web', sans-serif;
-}
 }
