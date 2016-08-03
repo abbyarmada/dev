@@ -3,25 +3,30 @@
   src: url('https://fonts.googleapis.com/css?family=Inconsolata');
 }
 
-/*@font-face {
+@font-face {
   font-family: 'Oxygen';
   src: url('https://fonts.googleapis.com/css?family=Oxygen:400,300');
-}*/
-/* head font, font-family: 'Oswald', sans-serif;*/
-/* body font, font-family: 'Hind', sans-serif;*/
+}
+
 #ft{
-  font-family: 'Hind', sans-serif;
+  font-family: 'Oxygen';
 }
 
 #ct{
   /*background-color: #a8d1c8*/
   font-family: 'Inconsolata';
+  background-color: #B8B8B8;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
 }
 
-#navbarlink {
+#navbarlink { 
   font-family: 'Titillium Web', sans-serif;
 }
-
+ 
 ul {
     list-style-type: none;
     margin: 0;
@@ -29,6 +34,7 @@ ul {
     overflow: hidden;
     background-color: #2457af;
     font-family: 'Titillium Web', sans-serif;
+    border-radius: 5px;
 }
 li {
     float: left;
@@ -71,15 +77,11 @@ li.dropdown {
    background-color: #009933;
 }
 
-#navbarlink {
+#navbarlink { 
   font-family: 'Titillium Web', sans-serif;
 }
 
-/* Add a gray right border to all list items, except the last item (last-child) */
-li {
-    border-right: 1px solid #bbb;
+#footer {
+  font-family: 'Titillium Web', sans-serif;
 }
-
-li:last-child {
-    border-right: none;
 }
