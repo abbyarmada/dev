@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #header {
   font-family: 'Noto Sans', sans-serif;
   font-size: 100%;
@@ -16,12 +17,92 @@ li {
 
 li a {
     display: block;
+=======
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('https://fonts.googleapis.com/css?family=Inconsolata');
+}
+
+@font-face {
+  font-family: 'Oxygen';
+  src: url('https://fonts.googleapis.com/css?family=Oxygen:400,300');
+}
+
+#ft{
+  font-family: 'Oxygen';
+}
+
+#ct{
+  /*background-color: #a8d1c8*/
+  font-family: 'Inconsolata';
+  background-color: #B8B8B8;
+  margin-left: 1px; 
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+#navbarlink { 
+  font-family: 'Titillium Web', sans-serif;
+}
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2457af;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 8px;
+}
+li {
+    float: left;
+}
+li a, .dropbtn {
+    display: inline-block;
+>>>>>>> origin/master
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
+<<<<<<< HEAD
 
 li a:hover {
     background-color: #111;
+=======
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #3e75a2;
+}
+li.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: ;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover {
+  background-color: #3e75a2
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+   background-color: #009933;
+}
+
+#navbarlink { 
+  font-family: 'Titillium Web', sans-serif;
+>>>>>>> origin/master
 }
