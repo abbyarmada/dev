@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: 'Inconsolata';
   src: url('https://fonts.googleapis.com/css?family=Inconsolata');
 }
@@ -14,7 +14,7 @@
 
 #ct{
   /*background-color: #a8d1c8*/
-  font-family: 'Inconsolata';
+  /*font-family: 'Inconsolata';
   background-color: #B8B8B8;
   margin-left: 3px;
   margin-right: 3px;
@@ -129,4 +129,4 @@ li.dropdown {
   text-decoration: none;
   font-size: 25px;
   font-family: 'Titillium Web', sans-serif;
-}
+}*/
