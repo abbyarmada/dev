@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('https://fonts.googleapis.com/css?family=Inconsolata');
+}
+
+@font-face {
+  font-family: 'Oxygen';
+  src: url('https://fonts.googleapis.com/css?family=Oxygen:400,300');
+}
+
+#code{
+  /*background-color: #a8d1c8*/
+  font-family: 'Inconsolata';
+  background-color: #B8B8B8;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
+}
+
+#navbarlink {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#screwthis {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+/*font italics and bolds should be formatted as id="font set id" class="italic"*/
+.italics {
+  font-style: italic;
+}
+
+#ft{
+  font-family: 'Oxygen';
+}
+
+#headgeneric{
+  font-family: 'Oxygen';
+}
+
+#footer {
+  font-family: 'Titillium Web', sans-serif;
+}

@@ -1,0 +1,6 @@
+/*Only link to pages with images, all formatting for images here, use a new id, make sure there are no duped ids*/
+/*Policy header image*/
+#policyimg{
+  width: 100%;
+  height: 300px;
+}
