@@ -16,7 +16,7 @@
 .bold {
   font-weight: bold;
 }
-/*font italics and bolds should be formatted as id="font set id" class="italic"*/
+/*font italics and bolds should be formatted as id="font set id" class="italic/bold"*/
 .italics {
   font-style: italic;
 }
