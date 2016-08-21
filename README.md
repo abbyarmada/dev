@@ -1,5 +1,6 @@
 # dev
-A website for all things CSGO development. 
+[![Issue Count](https://codeclimate.com/github/CSGOFlair/dev/badges/issue_count.svg)](https://codeclimate.com/github/CSGOFlair/dev)
+A website for all things CSGO development.
 dev
 
 THE URL: https://csgoflair.github.io/dev/
