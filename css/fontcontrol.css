@@ -1,14 +1,4 @@
-@font-face {
-  font-family: 'Inconsolata';
-  src: url('https://fonts.googleapis.com/css?family=Inconsolata');
-}
-
-@font-face {
-  font-family: 'Oxygen';
-  src: url('https://fonts.googleapis.com/css?family=Oxygen:400,300');
-}
-
-#code{
+.code{
   /*background-color: #a8d1c8*/
   font-family: 'Inconsolata';
   background-color: #B8B8B8;
@@ -17,10 +7,6 @@
   margin-top: 3px;
   margin-bottom: 3px;
   border-radius: 5px;
-}
-
-#navbarlink {
-  font-family: 'Titillium Web', sans-serif;
 }
 
 #screwthis {

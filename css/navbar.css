@@ -1,7 +1,11 @@
 /*All this is navbar stuff, dont really change anything unless you know what you are doing*/
+#navbarlink {
+  font-family: 'Titillium Web', sans-serif;
+}
+
 .posfixed{
     position: fixed;
-    top: 0;   
+    top: 0;
 }
 ul.nav {
     list-style-type: none;
