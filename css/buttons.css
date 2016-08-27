@@ -1,2 +1,31 @@
 /*Button formatting lives here, only like if used (bc page load times)*/
 /*This is not needed for already formatted buttons like the GitHub fork button*/
+button.codestandards{
+  background-color: #519e3d;
+  border-radius: 8px;
+}
+
+button.codestandards span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+button.codestandards span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+button.codestandards:hover span {
+  padding-right: 25px;
+}
+
+button.codestandards:hover span:after {
+  opacity: 1;
+  right: 0;
+}
