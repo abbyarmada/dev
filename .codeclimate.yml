@@ -1,11 +1,4 @@
 engines:
-  rubocop:
-    enabled: true
-    #checks:
-    # Rubocop/Metrics/ClassLength:
-    #   enabled: false
-  golint:
-    enabled: true
   eslint:
     enabled: true
   csslint:
@@ -17,10 +10,9 @@ engines:
       - javascript
 ratings:
   paths:
-  - app/**
-  - lib/**
-  - "**.rb"
-  - "**.go"
+  - "**.css"
+  - "**.js"
+  - "**.jsx"
 exclude_paths:
-- spec/**/*
-- "**/vendor/**/*"
+- "assets/images"
+
